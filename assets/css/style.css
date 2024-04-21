@@ -182,7 +182,7 @@ footer {
 
 .cv-pdf i:hover {
     color: #e84610;
-    font-size: 35px;
+    font-size: 35px; /* Icon enlarges when hovering! */
 }
 
 .social-links {
@@ -225,4 +225,16 @@ footer {
 }
 
 /* ------------------------------------------Personal Info */
+
+.personal-info-item {
+    margin-bottom: 20px;
+    display: block;
+    clear: both;
+}
+
+.personal-info-item .key,
+.personal-info-item .value {
+    padding-right: 8px;
+    display: inline-block;
+}
 
