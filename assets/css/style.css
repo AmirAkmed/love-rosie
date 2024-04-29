@@ -340,3 +340,12 @@ footer {
     margin-bottom: 30px;
 }
 
+
+/* ---------------------------------------- Work History */
+
+.contact-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
